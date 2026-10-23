@@ -258,7 +258,7 @@ export default function Contact() {
         {/* Social Links */}
         <div className="flex items-center gap-5">
           <a
-            href="https://github.com/shimulcse"
+            href="https://github.com/sibly-sadik"
             target="_blank"
             rel="noreferrer"
             className="hover:text-white transition-colors"
@@ -267,7 +267,7 @@ export default function Contact() {
             <GithubIcon className="w-4 h-4" />
           </a>
           <a
-            href="https://www.linkedin.com/in/shimulcse"
+            href="https://www.linkedin.com/in/siblysadik-dev/"
             target="_blank"
             rel="noreferrer"
             className="hover:text-white transition-colors"
@@ -275,15 +275,7 @@ export default function Contact() {
           >
             <LinkedinIcon className="w-4 h-4" />
           </a>
-          <a
-            href="https://twitter.com"
-            target="_blank"
-            rel="noreferrer"
-            className="hover:text-white transition-colors"
-            title="X / Twitter"
-          >
-            <TwitterXIcon className="w-4 h-4" />
-          </a>
+         
         </div>
 
         {/* Back to Top */}
