@@ -42,21 +42,21 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://shimulcse.vercel.app/",
-    title: "Shimul — Laravel Developer",
+    url: "https://siblysadik-dev.vercel.app/",
+    title: "Sibly Sadik Shimul — Laravel Developer",
     description:
       "Laravel Developer with 2 years of experience in PHP and Laravel development. Proficient in RESTful API development, MySQL, Git, and MVC architecture.",
-    siteName: "Shimul Portfolio",
+    siteName: "Sibly Sadik Shimul Portfolio",
   },
   twitter: {
     card: "summary_large_image",
     title: "Shimul — Laravel Developer",
     description:
       "Laravel Developer with 2 years of experience building secure, scalable web applications using PHP, Laravel, MySQL, and REST APIs.",
-    creator: "@shimulcse",
+    creator: "@siblysadik",
   },
   icons: {
-    icon: "/favicon.ico",
+    icon: "favicon_io/favicon.ico",
   },
 };
 
