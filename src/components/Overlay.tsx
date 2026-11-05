@@ -50,12 +50,12 @@ export default function Overlay({ scrollProgress }: OverlayProps) {
         <h1 className="text-4xl sm:text-6xl md:text-8xl font-black tracking-tight text-white mb-4">
           <span className="block text-gradient-multi">Shimul.</span>
           <span className="block text-neutral-300 text-3xl sm:text-5xl md:text-6xl font-light tracking-normal mt-1">
-            Laravel Developer.
+            Full Stack Developer.
           </span>
         </h1>
 
         <p className="max-w-xl text-neutral-400 text-sm sm:text-base md:text-lg font-light leading-relaxed mt-2 text-balance">
-          Motivated Laravel Developer with 2+ years building secure, scalable web applications using PHP, MySQL, REST APIs, and MVC architecture.
+          Motivated Full Stack Developer with 2+ years building secure, scalable web applications using PHP, MySQL, REST APIs, and MVC architecture.
         </p>
 
         {/* Scroll Indicator */}
